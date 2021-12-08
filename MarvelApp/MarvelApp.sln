@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelApp", "MarvelApp\MarvelApp.csproj", "{D0C2ACFF-9975-4CB9-B988-ED114111EEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelLib", "MarvelLib\MarvelLib.csproj", "{52376003-835A-421E-B38B-3997C7482DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MArvelApiWpf", "MArvelApiWpf\MArvelApiWpf.csproj", "{1599ECBB-4075-4A53-9A30-8988826B86C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelManager", "MarvelManager\MarvelManager.csproj", "{3151DC3C-5072-4FD1-8F03-20316575D16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C2ACFF-9975-4CB9-B988-ED114111EEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C2ACFF-9975-4CB9-B988-ED114111EEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C2ACFF-9975-4CB9-B988-ED114111EEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C2ACFF-9975-4CB9-B988-ED114111EEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52376003-835A-421E-B38B-3997C7482DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52376003-835A-421E-B38B-3997C7482DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52376003-835A-421E-B38B-3997C7482DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52376003-835A-421E-B38B-3997C7482DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1599ECBB-4075-4A53-9A30-8988826B86C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1599ECBB-4075-4A53-9A30-8988826B86C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1599ECBB-4075-4A53-9A30-8988826B86C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1599ECBB-4075-4A53-9A30-8988826B86C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3151DC3C-5072-4FD1-8F03-20316575D16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3151DC3C-5072-4FD1-8F03-20316575D16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3151DC3C-5072-4FD1-8F03-20316575D16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3151DC3C-5072-4FD1-8F03-20316575D16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF0B9D5D-496F-4A66-8A7B-020C86DFBB31}
+	EndGlobalSection
+EndGlobal
